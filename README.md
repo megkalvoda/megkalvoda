@@ -1,7 +1,24 @@
-## Hi there 👋
+## Hi there 👋 About me
+## Navigating my GitHub
+## Featured Projects
+##Skills
+##What im currently working on
+
+#1. Decentralized Voting Plantform
+
+#2. Decentralized Voting Plantform 
+
+#3. AI powered E-Learning Platform
+
+#4 Core Expertise
+
+#5 Tools and Platforms 
+
+
 
 <!--
 **megkalvoda/megkalvoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head> About Me </head>
 
 Here are some ideas to get you started:
 
